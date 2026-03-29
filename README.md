@@ -78,3 +78,9 @@ The main objectives of this project are:
 
 ## Final Note
 This project was developed as part of the Fundamentals of AI and ML course. It focuses on solving a real-life problem using simple and practical Machine Learning techniques.
+
+
+
+
+## Final Note
+This project was developed as part of the Fundamentals of AI and ML course. It focuses on solving a real-life problem using simple and practical Machine Learning techniques.
