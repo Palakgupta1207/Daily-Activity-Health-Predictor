@@ -82,5 +82,4 @@ This project was developed as part of the Fundamentals of AI and ML course. It f
 
 
 
-## Final Note
-This project was developed as part of the Fundamentals of AI and ML course. It focuses on solving a real-life problem using simple and practical Machine Learning techniques.
+
